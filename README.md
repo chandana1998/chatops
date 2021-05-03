@@ -1,4 +1,4 @@
-# node-js-getting-started
+# node-js-getting-starteeeddd
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
@@ -17,7 +17,7 @@ $ npm start
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
-## Deploying to Heroku
+## Deploying to Herokuu
 
 ```
 $ heroku create
@@ -28,7 +28,7 @@ or
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Documentation
+## Doc
 
 For more information about using Node.js on Heroku, see these Dev Center articles:
 
