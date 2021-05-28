@@ -1,4 +1,4 @@
-# node-js-getting-starteeedddeddd
+# node-js-getting-starteeeddded
 
 A barebone Node.js app using [Express 4](http://expressjs.com/).
 
